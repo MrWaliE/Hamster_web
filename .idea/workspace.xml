@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="910faeae-6241-4c3b-be19-7f1ce27b79b2" name="Changes" comment="aa">
-      <change beforePath="$PROJECT_DIR$/assets/binance-logo-ICDYv7TY.png" beforeDir="false" afterPath="$PROJECT_DIR$/binance-logo-ICDYv7TY.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/daily-cipher-BsFh939_.png" beforeDir="false" afterPath="$PROJECT_DIR$/daily-cipher-BsFh939_.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/daily-combo-BILPP4Db.png" beforeDir="false" afterPath="$PROJECT_DIR$/daily-combo-BILPP4Db.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/daily-reward-BQbFIOL9.png" beforeDir="false" afterPath="$PROJECT_DIR$/daily-reward-BQbFIOL9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/dollar-coin-C8bHlbh6.png" beforeDir="false" afterPath="$PROJECT_DIR$/dollar-coin-C8bHlbh6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hamster-coin-BBw1dF5i.png" beforeDir="false" afterPath="$PROJECT_DIR$/hamster-coin-BBw1dF5i.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hamster-exchange-hHtqN6jH.png" beforeDir="false" afterPath="$PROJECT_DIR$/hamster-exchange-hHtqN6jH.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index-CMxpB7ID.js" beforeDir="false" afterPath="$PROJECT_DIR$/index-CMxpB7ID.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index-EGpD6TUG.css" beforeDir="false" afterPath="$PROJECT_DIR$/index-EGpD6TUG.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/main-character-Be_Quxuq.png" beforeDir="false" afterPath="$PROJECT_DIR$/main-character-Be_Quxuq.png" afterDir="false" />
+    <list default="true" id="910faeae-6241-4c3b-be19-7f1ce27b79b2" name="Changes" comment="cc">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +153,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726129156485</updated>
       <workItem from="1726129157651" duration="2000" />
-      <workItem from="1726129224392" duration="3444000" />
+      <workItem from="1726129224392" duration="3561000" />
     </task>
     <task id="LOCAL-00001" summary="aa">
       <option name="closed" value="true" />
@@ -205,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726135061018</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="cc">
+      <option name="closed" value="true" />
+      <created>1726135270269</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726135270269</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +211,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aa" />
-    <option name="LAST_COMMIT_MESSAGE" value="aa" />
+    <MESSAGE value="cc" />
+    <option name="LAST_COMMIT_MESSAGE" value="cc" />
   </component>
 </project>
